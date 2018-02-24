@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Register-Form</string>
+    <string name="register_form">register form</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_family">Enter Family</string>
+    <string name="enter_password">Enter password</string>
+    <string name="man">man</string>
+    <string name="female">female</string>
+    <string name="register_button">Register</string>
+    <string name="select_sex">Select :</string>
+</resources>

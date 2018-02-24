@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">صفحه ثبت نام</string>
+    <string name="register_form">ثبت نام</string>
+    <string name="enter_name">نام خود را وارد کنید</string>
+    <string name="enter_family">نام خانوادگی خود را وارد کنید</string>
+    <string name="enter_password">گذرواژه </string>
+    <string name="man">مرد</string>
+    <string name="female">زن</string>
+    <string name="register_button">ثبت نام</string>
+    <string name="select_sex">انتخاب کنید</string>
+</resources>
